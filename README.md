@@ -379,18 +379,18 @@ The system is not just an experimental notebook — it is a **deployable AI prod
 
 ---
 
-# 👨‍💻 Author
+<div align="center">
 
-## Ganesh Deshmukh
+## 👨‍💻 Developed By
 
-**M.Tech Robotics & AI**
-Passionate about:
+### Ganesh Deshmukh  
+*M.Tech Robotics & AI | Machine Learning | Robotics | Data Science*
 
-* Artificial Intelligence
-* Machine Learning
-* Robotics
-* Data Science
-* Intelligent Automation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganesh-deshmukh-3a2a1b1b5/)
+
+📩 **deshmukhg21@gmail.com**
+
+</div>
 
 ---
 
