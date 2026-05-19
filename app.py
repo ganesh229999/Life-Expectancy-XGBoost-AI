@@ -5,7 +5,7 @@ from tkinter import messagebox
 import pandas as pd
 import joblib
 import numpy as np
-import xgboost # <--- CRITICAL: Keeps the EXE from crashing
+import xgboost 
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
@@ -33,7 +33,7 @@ def predict_life():
         user_input_dict = medians.copy()
         
         # 2. Overwrite only the ones the user typed
-        # Note: These keys MUST match the CSV column names exactly
+        
         user_input_dict['Schooling'] = float(ent_school.get())
         user_input_dict['GDP'] = float(ent_gdp.get())
         user_input_dict['BMI'] = float(ent_bmi.get())
